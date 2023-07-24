@@ -1,0 +1,20 @@
+helloWorld.cpp
+  * Integer - Whole number.
+  * Double - Number including a decimal.
+  * Single Character - A or B or C or $ or 1 or 2 or 3 etc.
+  * Boolean - True or false.
+  * String - Objects that represents a sequence of text. std::string
+  * Standard - std::
+  * Character - c
+  * Output - out
+  * std::cout - Standard character output
+
+helloWorld2.cpp
+  * Constant - The const keyword specifies that a variable's value is constant.
+              Tells the compiler to prevent anything from modifying it, which makes it read only.
+
+helloWorld3.cpp
+  * Namespace - provides a solution for preventing name conflicts
+                in large projects. Each entity needs a unique name.
+                A namespace allows for identically named entities
+                as long as the namespaces are different.
