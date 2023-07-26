@@ -18,3 +18,11 @@ helloWorld3.cpp
                 in large projects. Each entity needs a unique name.
                 A namespace allows for identically named entities
                 as long as the namespaces are different.
+
+helloWorld4.cpp
+  * Typeof - reserved keyword used to create an additional name
+            (alias) for another data type.
+            New identifier for an existing type
+            Helps with readability and reduces typos
+            Use when there is a clear benefit
+            Replaced with 'using' (work better w/ templates)
