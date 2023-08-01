@@ -26,3 +26,7 @@ helloWorld4.cpp
             Helps with readability and reduces typos
             Use when there is a clear benefit
             Replaced with 'using' (work better w/ templates)
+
+helloWorld5.cpp
+  * Arithmetic - arithmetic operators = return the result of a specific arithmetic operation (+ - * /)
+                 order of operation = parenthisis > multiplication & division > addition & subtraction
