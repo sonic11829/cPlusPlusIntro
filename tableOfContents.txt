@@ -52,3 +52,6 @@ helloWorld8.cpp
                                round round a number to the closest whole number, in this case it will be 3 because 3.14 is closes to 3.
                                ceil or ceiling rounds a number up to the closes whole number, in this case 4.
                                floor rounds a number down to the closes whole number, in this case 3.
+
+helloWorld9.cpp
+  * the hypotenuse of a triangle - 'c' = the squareroot of 'a' squared + 'b' squared
