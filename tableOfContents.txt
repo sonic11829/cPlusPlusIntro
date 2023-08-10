@@ -1,3 +1,5 @@
+Check out https://www.cplusplus.com/reference/cmath/ for more math functions.
+
 helloWorld.cpp
   * Integer - Whole number.
   * Double - Number including a decimal.
@@ -40,3 +42,13 @@ helloWorld7.cpp
   * character input - cout << (insertion operator), cin >> (extraction operator)
                       #include <string> was used to use the getline() function
 
+helloWorld8.cpp
+  * few basic math functions - max displays the highest value, in this case 4 because y = 4.
+                               min displays the lowest value, in this case 3 because x = 3.
+                               pow or power displays the hights power of the first number using the second number. -
+                               - In this case it's 2 * 2 * 2 * 2 or 2 to the power of 4 which is equal to 16.
+                               sqrt or square-root displays the square root of the number passed into the parrenthesis.
+                               abs or absolute value, if you pass in a negative value you will be given the positive version of that number
+                               round round a number to the closest whole number, in this case it will be 3 because 3.14 is closes to 3.
+                               ceil or ceiling rounds a number up to the closes whole number, in this case 4.
+                               floor rounds a number down to the closes whole number, in this case 3.
